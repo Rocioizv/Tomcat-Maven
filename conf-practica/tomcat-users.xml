@@ -16,5 +16,5 @@
 	<user username="rconcan" 
         password="1234" 
         roles="admin,admin-gui,manager,manager-gui"/>
-  <user username="rconcanMaven" password="1234" roles="manager-script"/>
+  <user username="rconcanMaven" password="1234" roles="manager-gui,manager-script"/>
 </tomcat-users>
